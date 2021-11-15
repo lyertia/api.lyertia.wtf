@@ -5,6 +5,6 @@
 - [Click this to go our discord!](https://discord.gg/mv9Tbky42T)
 
 ### License
- - Its protected by Creative Commons ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/))
- 
-<img src="https://licensebuttons.net/l/by-nc/3.0/88x31.png"></img>
+- Its protected by Creative Commons ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+
+ <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" title="BYNC"><img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a>
